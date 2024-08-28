@@ -1,0 +1,74 @@
+2024-08-24 10:54:17,598 - ERROR - Database connection error: ('HYT00', '[HYT00] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0) (SQLDriverConnect)')
+2024-08-24 10:54:17,598 - ERROR - Error in main script: ('HYT00', '[HYT00] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0) (SQLDriverConnect)')
+2024-08-24 10:54:17,599 - WARNING - Database connection was never established.
+2024-08-24 11:17:10,318 - ERROR - Database connection error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect)")
+2024-08-24 11:17:10,318 - ERROR - Error in main script: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect)")
+2024-08-24 11:17:10,318 - WARNING - Database connection was never established.
+2024-08-26 12:34:24,676 - ERROR - Database connection error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect)")
+2024-08-26 12:34:24,677 - ERROR - Error in main script: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect)")
+2024-08-26 12:34:24,677 - WARNING - Database connection was never established.
+2024-08-26 12:35:27,187 - ERROR - Database connection error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2024-08-26 12:35:27,188 - ERROR - Error in main script: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2024-08-26 12:35:27,188 - WARNING - Database connection was never established.
+2024-08-26 12:47:18,270 - ERROR - Database connection error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2024-08-26 12:47:18,271 - ERROR - Error in main script: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2024-08-26 12:47:18,271 - WARNING - Database connection was never established.
+2024-08-26 12:56:48,654 - INFO - Database connection established.
+2024-08-26 12:56:49,098 - INFO - Found 0 church URLs.
+2024-08-26 12:56:49,106 - INFO - Database connection closed.
+2024-08-26 12:58:04,976 - INFO - Database connection established.
+2024-08-26 12:58:05,118 - INFO - Found 0 church URLs.
+2024-08-26 12:58:05,121 - INFO - Database connection closed.
+2024-08-26 12:59:28,830 - INFO - Database connection established.
+2024-08-26 12:59:29,466 - INFO - Found 0 church URLs.
+2024-08-26 12:59:29,470 - INFO - Database connection closed.
+2024-08-26 13:05:47,582 - INFO - Database connection established.
+2024-08-26 13:05:48,066 - INFO - Found 1 church URLs.
+2024-08-26 13:05:48,616 - ERROR - Unexpected error in find_staff_page: 403 Client Error: Forbidden for url: http://www.pcaac.org/
+2024-08-26 13:05:48,619 - INFO - Database connection closed.
+2024-08-26 13:08:24,819 - INFO - Database connection established.
+2024-08-26 13:08:25,313 - INFO - Found 1 church URLs.
+2024-08-26 13:08:25,393 - ERROR - Unexpected error in find_staff_page: 403 Client Error: Forbidden for url: http://www.pcaac.org/
+2024-08-26 13:08:25,397 - INFO - Database connection closed.
+2024-08-26 13:09:22,793 - INFO - Database connection established.
+2024-08-26 13:09:23,671 - INFO - Found 13 church URLs.
+2024-08-26 13:09:23,999 - INFO - No staff page found for https://www.youtube.com/channel/UC15UakbZenFg9aktFkCQ3EQ.
+2024-08-26 13:09:24,321 - INFO - No staff page found for https://www.facebook.com/lethbridgechurch/.
+2024-08-26 13:09:24,781 - INFO - No staff page found for https://www.instagram.com/lethbridgechurch/.
+2024-08-26 13:09:25,004 - INFO - No staff page found for https://www.youtube.com/channel/UC15UakbZenFg9aktFkCQ3EQ.
+2024-08-26 13:09:25,264 - INFO - No staff page found for https://www.facebook.com/lethbridgechurch/.
+2024-08-26 13:09:25,708 - INFO - No staff page found for https://www.instagram.com/lethbridgechurch/.
+2024-08-26 13:09:25,917 - INFO - No staff page found for https://www.youtube.com/channel/UC15UakbZenFg9aktFkCQ3EQ.
+2024-08-26 13:09:26,184 - INFO - No staff page found for https://www.facebook.com/lethbridgechurch/.
+2024-08-26 13:09:26,556 - INFO - No staff page found for https://www.instagram.com/lethbridgechurch/.
+2024-08-26 13:09:26,765 - INFO - No staff page found for https://www.youtube.com/channel/UC15UakbZenFg9aktFkCQ3EQ.
+2024-08-26 13:09:27,015 - INFO - No staff page found for https://www.facebook.com/lethbridgechurch/.
+2024-08-26 13:09:27,419 - INFO - No staff page found for https://www.instagram.com/lethbridgechurch/.
+2024-08-26 13:09:27,726 - ERROR - Request error for /about/staff/: Invalid URL '/about/staff/': No scheme supplied. Perhaps you meant https:///about/staff/?
+2024-08-26 13:09:27,742 - INFO - Data saved for https://www.thegospelcoalition.org/.
+2024-08-26 13:09:27,742 - INFO - Database connection closed.
+2024-08-26 13:21:55,146 - INFO - Database connection established.
+2024-08-26 13:21:56,186 - INFO - Found 0 church URLs.
+2024-08-26 13:21:56,191 - INFO - Database connection closed.
+2024-08-26 13:26:00,319 - INFO - Database connection established.
+2024-08-26 13:26:00,624 - ERROR - Request error: 403 Client Error: Forbidden for url: https://avpc.org/
+2024-08-26 13:26:00,624 - ERROR - Error in main script: 403 Client Error: Forbidden for url: https://avpc.org/
+2024-08-26 13:26:00,627 - INFO - Database connection closed.
+2024-08-26 14:00:53,813 - INFO - Database connection established.
+2024-08-26 14:00:54,623 - INFO - Found 3 church URLs.
+2024-08-26 14:00:54,913 - INFO - No staff page found for https://www.facebook.com/AltadenaValleyPres.
+2024-08-26 14:00:55,160 - INFO - No staff page found for https://www.facebook.com/AltadenaValleyPres.
+2024-08-26 14:00:58,054 - INFO - No staff page found for http://www.mychurchwebsite.com.
+2024-08-26 14:00:58,060 - INFO - Database connection closed.
+2024-08-26 14:01:30,708 - INFO - Database connection established.
+2024-08-26 14:01:31,186 - INFO - Found 1 church URLs.
+2024-08-26 14:01:31,786 - INFO - Extracted information for 0 staff members from https://www.pcaac.org/staff/.
+2024-08-26 14:01:31,790 - INFO - Data saved for http://www.pcaac.org.
+2024-08-26 14:01:31,790 - INFO - Database connection closed.
+2024-08-26 14:03:21,403 - INFO - Database connection established.
+2024-08-26 14:03:21,876 - INFO - Found 0 church URLs.
+2024-08-26 14:03:21,881 - INFO - Database connection closed.
+2024-08-26 14:16:31,393 - INFO - Database connection established.
+2024-08-26 14:16:32,369 - ERROR - Unexpected error in fetch_church_urls: 'function' object has no attribute 'all'
+2024-08-26 14:16:32,369 - ERROR - Error in main script: 'function' object has no attribute 'all'
+2024-08-26 14:16:32,374 - INFO - Database connection closed.
